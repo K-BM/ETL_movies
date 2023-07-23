@@ -1,4 +1,4 @@
-# ETL_movies
+# ETL_pipeline_movies_database
 Creating an ETL pipeline on The Movie Database API: https://api.themoviedb.org/3/movie/
 An ETL pipeline consists of three general components:
 
